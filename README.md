@@ -1,4 +1,5 @@
 # Ambientación de Python con Jupyter+Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mijailo/econofisica/master)
 
 Inspirado en [este](http://mybinder.org/v2/gh/binder-examples/requirements/master) repositorio. La cosa es poder correr un ambiente de Jupyter con Python 3.8 (o mayor; ver archivo `runtime.txt`), instalando las dependencias necesarias listadas en `requirements.txt`.
 
