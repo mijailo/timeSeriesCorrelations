@@ -1,0 +1,3 @@
+# Ignorar este pdo.
+__pycache__/
+.ipynb_checkpoints/
