@@ -1,0 +1,142 @@
+[
+    {
+        "Symbol": "^GSPC",
+        "Name": "S&P 500"
+    },
+    {
+        "Symbol": "^DJI",
+        "Name": "Dow Jones Industrial Average"
+    },
+    {
+        "Symbol": "^IXIC",
+        "Name": "NASDAQ Composite"
+    },
+    {
+        "Symbol": "^NYA",
+        "Name": "NYSE COMPOSITE (DJ)"
+    },
+    {
+        "Symbol": "^XAX",
+        "Name": "NYSE AMEX COMPOSITE INDEX"
+    },
+    {
+        "Symbol": "^BUK100P",
+        "Name": "Cboe UK 100 Price Return"
+    },
+    {
+        "Symbol": "^RUT",
+        "Name": "Russell 2000"
+    },
+    {
+        "Symbol": "^VIX",
+        "Name": "Vix"
+    },
+    {
+        "Symbol": "^FTSE",
+        "Name": "FTSE 100"
+    },
+    {
+        "Symbol": "^GDAXI",
+        "Name": "DAX PERFORMANCE-INDEX"
+    },
+    {
+        "Symbol": "^FCHI",
+        "Name": "CAC 40"
+    },
+    {
+        "Symbol": "^STOXX50E",
+        "Name": "ESTX 50 PR.EUR"
+    },
+    {
+        "Symbol": "^N100",
+        "Name": "EURONEXT 100"
+    },
+    {
+        "Symbol": "^BFX",
+        "Name": "BEL 20"
+    },
+    {
+        "Symbol": "IMOEX.ME",
+        "Name": "MOEX Russia Index"
+    },
+    {
+        "Symbol": "^N225",
+        "Name": "Nikkei 225"
+    },
+    {
+        "Symbol": "^HSI",
+        "Name": "HANG SENG INDEX"
+    },
+    {
+        "Symbol": "000001.SS",
+        "Name": "SSE Composite Index"
+    },
+    {
+        "Symbol": "^STI",
+        "Name": "STI Index"
+    },
+    {
+        "Symbol": "^AXJO",
+        "Name": "S&P/ASX 200"
+    },
+    {
+        "Symbol": "^AORD",
+        "Name": "ALL ORDINARIES"
+    },
+    {
+        "Symbol": "^BSESN",
+        "Name": "S&P BSE SENSEX"
+    },
+    {
+        "Symbol": "^JKSE",
+        "Name": "Jakarta Composite Index"
+    },
+    {
+        "Symbol": "^KLSE",
+        "Name": "FTSE Bursa Malaysia KLCI"
+    },
+    {
+        "Symbol": "^NZ50",
+        "Name": "S&P/NZX 50 INDEX GROSS"
+    },
+    {
+        "Symbol": "^KS11",
+        "Name": "KOSPI Composite Index"
+    },
+    {
+        "Symbol": "^TWII",
+        "Name": "TSEC weighted index"
+    },
+    {
+        "Symbol": "^GSPTSE",
+        "Name": "S&P/TSX Composite index"
+    },
+    {
+        "Symbol": "^BVSP",
+        "Name": "IBOVESPA"
+    },
+    {
+        "Symbol": "^MXX",
+        "Name": "IPC MEXICO"
+    },
+    {
+        "Symbol": "^IPSA",
+        "Name": "S&P/CLX IPSA"
+    },
+    {
+        "Symbol": "^MERV",
+        "Name": "MERVAL"
+    },
+    {
+        "Symbol": "^TA125.TA",
+        "Name": "TA-125"
+    },
+    {
+        "Symbol": "^CASE30",
+        "Name": "EGX 30 Price Return Index"
+    },
+    {
+        "Symbol": "^JN0U.JO",
+        "Name": "Top 40 USD Net TRI Index"
+    }
+]
