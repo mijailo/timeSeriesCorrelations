@@ -32,9 +32,9 @@ Esta colección de _notebooks_ tiene la intención de ejemplificar de forma simp
 Para poder interactuar con los _notebooks_ (archivos con extensión `*.ipynb`), dele click al botón ![Binder](https://mybinder.org/badge_logo.svg) de la parte superior izquierda de este `README.md`. De forma alternativa, puede utilizar [este enlace](https://mybinder.org/) y pegar en el primer cuadro de texto la URL de este repositorio.
 
 > **Nota**: Puede tomar _un rato_ en desplegarse el ambiente de trabajo.
-> ![Una imagen parecida a esta va a aparecer cuando se esté construyendo el ambiente.](./binderLoading.png){width=70%}
+> ![Una imagen parecida a esta va a aparecer cuando se esté construyendo el ambiente.](./binderLoading.png)
 > Una vez desplegado, podrá interactuar con el código de los _notebooks_.
-> ![Una vez que la construcción esté completa, va a salir una página como esta.](./jupyterReady.png){width=70%}
+> ![Una vez que la construcción esté completa, va a salir una página como esta.](./jupyterReady.png)
 
 ## Ambientación de Python con Jupyter+Binder
 
