@@ -9,22 +9,22 @@ Esta colección de _notebooks_ tiene la intención de ejemplificar de forma simp
 
 ```sh
 .
-├── 1 - Descarga y preparación de datos.ipynb
+├── 1 - Descarga y preparación de datos.ipynb #Este es el contenido importante (*.ipynb)
 ├── 2 - Matrices de correlación locales.ipynb
-├── binder
+├── binder #Estos archivos de acá no los toquen xd
 │   ├── requirements.in
 │   ├── requirements.txt
 │   └── runtime.txt
-├── binderLoading.png
-├── CITATION.cff
-├── data
+├── binderLoading.png #Esta imagen es usada por el README.md
+├── CITATION.cff #Archivo de citación
+├── data #Acá están los datos utilizados/generados en los notebooks
 │   ├── ^MXX_from2008-09-15_to2022-06-16_downloaded20220616.json
 │   ├── returns^MXX_from2008-09-15_to2022-06-16_downloaded20220616.csv
 │   ├── returns_SP500.csv
 │   └── worldIndices_20220616.json
-├── jupyterReady.png
+├── jupyterReady.png #Esta imagen es usada por el README.md
 ├── LICENSE
-└── README.md
+└── README.md #**Este** archivo
 ```
 
 ## Utilización del repositorio
