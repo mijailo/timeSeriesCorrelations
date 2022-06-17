@@ -8,7 +8,7 @@ Esta colección de _notebooks_ tiene la intención de ejemplificar de forma simp
 ## Contenido del repositorio
 
 ```sh
-./
+.
 ├── 1 - Descarga y preparación de datos.ipynb
 ├── 2 - Matrices de correlación locales.ipynb
 ├── binder
@@ -18,6 +18,7 @@ Esta colección de _notebooks_ tiene la intención de ejemplificar de forma simp
 ├── data
 │   ├── ^MXX_from2008-09-15_to2022-06-16_downloaded20220616.json
 │   ├── returns^MXX_from2008-09-15_to2022-06-16_downloaded20220616.csv
+│   ├── returns_SP500.csv
 │   └── worldIndices_20220616.json
 ├── LICENSE
 └── README.md
