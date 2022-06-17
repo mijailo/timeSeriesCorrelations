@@ -15,11 +15,14 @@ Esta colección de _notebooks_ tiene la intención de ejemplificar de forma simp
 │   ├── requirements.in
 │   ├── requirements.txt
 │   └── runtime.txt
+├── binderLoading.png
+├── CITATION.cff
 ├── data
 │   ├── ^MXX_from2008-09-15_to2022-06-16_downloaded20220616.json
 │   ├── returns^MXX_from2008-09-15_to2022-06-16_downloaded20220616.csv
 │   ├── returns_SP500.csv
 │   └── worldIndices_20220616.json
+├── jupyterReady.png
 ├── LICENSE
 └── README.md
 ```
@@ -29,12 +32,15 @@ Esta colección de _notebooks_ tiene la intención de ejemplificar de forma simp
 Para poder interactuar con los _notebooks_ (archivos con extensión `*.ipynb`), dele click al botón ![Binder](https://mybinder.org/badge_logo.svg) de la parte superior izquierda de este `README.md`. De forma alternativa, puede utilizar [este enlace](https://mybinder.org/) y pegar en el primer cuadro de texto la URL de este repositorio.
 
 > **Nota**: Puede tomar _un rato_ en desplegarse el ambiente de trabajo.
+> ![Una imagen parecida a esta va a aparecer cuando se esté construyendo el ambiente.](./binderLoading.png){width=70%}
+> Una vez desplegado, podrá interactuar con el código de los _notebooks_.
+> ![Una vez que la construcción esté completa, va a salir una página como esta.](./jupyterReady.png){width=70%}
 
 ## Ambientación de Python con Jupyter+Binder
 
 La idea de este repositorio es poder crear un ambiente de `**Jupyter**` con `Python 3.x` (ver archivo `runtime.txt`), instalando las dependencias necesarias listadas en `requirements.txt`.
 
-### Notas
+## Notas
 
 * El archivo `binder/requirements.txt` debe listar todas las librerías de Python invocadas en los notebooks. Éstas se instalan con:
 ```bash
