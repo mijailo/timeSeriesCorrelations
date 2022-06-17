@@ -1,6 +1,6 @@
 # Correlación de series de tiempo
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mijailo/timeSeriesCorrelations/HEAD) (Dame click we)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mijailo/timeSeriesCorrelations/HEAD)
 > Inspirado en [este](http://mybinder.org/v2/gh/binder-examples/requirements/master) repositorio. 
 
 Esta colección de _notebooks_ tiene la intención de ejemplificar de forma simple una tarea de descarga de series de tiempo financieras ([Yahoo Finance](https://finance.yahoo.com/)), preparación y limpieza de los datos, y cálculo de matrices de [correlación de Pearson](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient).
@@ -23,6 +23,12 @@ Esta colección de _notebooks_ tiene la intención de ejemplificar de forma simp
 ├── LICENSE
 └── README.md
 ```
+
+## Utilización del repositorio
+
+Para poder interactuar con los _notebooks_ (archivos con extensión `*.ipynb`), dele click al botón ![Binder](https://mybinder.org/badge_logo.svg) de la parte superior izquierda de este `README.md`. De forma alternativa, puede utilizar [este enlace](https://mybinder.org/) y pegar en el primer cuadro de texto la URL de este repositorio.
+
+> **Nota**: Puede tomar _un rato_ en desplegarse el ambiente de trabajo.
 
 ## Ambientación de Python con Jupyter+Binder
 
