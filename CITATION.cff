@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "Si usa este repositorio, por favor cítelo como sigue:"
+authors:
+  - family-names: Martínez Ramos
+    given-names: Manuel Mijaíl
+    website: www.linkedin.com/in/mijail-martinez
+title: "Repositorio tutorial para bajar datos financieros y sacar matrices de correlación."
+version: 0.1
+doi: <¿cómo se saca D:?>
+date-released: 2022-06-16
