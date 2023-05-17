@@ -8,23 +8,28 @@ Esta colección de _notebooks_ tiene la intención de ejemplificar de forma simp
 ## Contenido del repositorio
 
 ```sh
-.
-├── 1 - Descarga y preparación de datos.ipynb #Este es el contenido importante (*.ipynb)
-├── 2 - Matrices de correlación locales.ipynb
-├── binder #Estos archivos de acá no los toquen xd
-│   ├── requirements.in
-│   ├── requirements.txt
-│   └── runtime.txt
-├── binderLoading.png #Esta imagen es usada por el README.md
-├── CITATION.cff #Archivo de citación
-├── data #Acá están los datos utilizados/generados en los notebooks
-│   ├── ^MXX_from2008-09-15_to2022-06-16_downloaded20220616.json
-│   ├── returns^MXX_from2008-09-15_to2022-06-16_downloaded20220616.csv
-│   ├── returns_SP500.csv
-│   └── worldIndices_20220616.json
-├── jupyterReady.png #Esta imagen es usada por el README.md
+./
+├── 1 - Descarga y preparación de datos.ipynb #La _carnita_ del repositorio está en los archivos `*.ipynb`
+├── 2 - Matrices de correlación.ipynb
+├── 3 - Análisis básico de series de tiempo.ipynb
+├── binder #Estos archivos de acá son útiles para desplegar un ambiente virtual en la nube.
+│   ├── requirements.in
+│   ├── requirements.txt
+│   └── runtime.txt
+├── binderLoading.png #Esta imagen es utilizada por el README.md.
+├── CITATION.cff
+├── data # Acá están los datos utilizados o generados por los notebooks.
+│   ├── ^MXX_from2008-09-15_to2022-05-17_downloaded20230517.json
+│   ├── ^MXX_from2008-09-15_to2022-06-16_downloaded20220616.json
+│   ├── rendimientos.csv
+│   ├── returns^MXX_from2008-09-15_to2022-05-17_downloaded20230517.csv
+│   ├── returns^MXX_from2008-09-15_to2022-06-16_downloaded20220616.csv
+│   ├── returns_SP500.csv
+│   ├── stockPrices_downloaded20230517.csv
+│   └── worldIndices_20220616.json
+├── jupyterReady.png # Esta imagen es utilizada por el README.md.
 ├── LICENSE
-└── README.md #**Este** archivo
+└── README.md # **Este** archivo.
 ```
 
 ## Utilización del repositorio
