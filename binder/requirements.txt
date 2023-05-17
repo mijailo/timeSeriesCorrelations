@@ -2,6 +2,7 @@ numpy>=1.22
 matplotlib>=3.5
 pandas>=1.4
 yahoofinancials>=1.6
+yahooquery>2.2
 beautifulsoup4>=4.11
 pytz>=2022
 scipy>=1.8
